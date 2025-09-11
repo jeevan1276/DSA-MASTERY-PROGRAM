@@ -1,0 +1,6 @@
+| DAY | Easy | Medium | Hard |
+|-----|------|--------|------|
+| 1 | [Count Digits](https://www.geeksforgeeks.org/problems/count-digits-1606889545/1) | [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1) | [No Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/?envType=daily-question&envId=2025-09-08) |
+| 2 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1) | [People Aware of Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/?envType=daily-question&envId=2025-09-09) |
+| 3 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Insertion Sort](https://www.geeksforgeeks.org/problems/insertion-sort/1) | [Minimum People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/description/?envType=daily-question&envId=2025-09-10) |
+| 4 | [GCD of Two Numbers](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1) | [Sort Vowels in String](https://leetcode.com/problems/sort-vowels-in-a-string/description/?envType=daily-question&envId=2025-09-11) |
