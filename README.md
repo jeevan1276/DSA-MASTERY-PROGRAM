@@ -1,4 +1,4 @@
-This repo was created as a progress tracker for the DSA Mastery Program conducted by the Coding Club,  NIT Andhra Pradesh. I participated in this program to revise the basics in DSA. I have followed this for thirty days. The following Questions were solved by me as part of my revision.
+This repo was created as a progress tracker for the DSA Mastery Program conducted by the Coding Club,  NIT Andhra Pradesh. I participated in this program to revise the basics in DSA. I have followed this for 25 days. The following Questions were solved by me as part of my revision.
 
 | DAY | Easy | Medium | Hard |
 |-----|------|--------|------|
